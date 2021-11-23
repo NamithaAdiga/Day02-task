@@ -7,3 +7,13 @@ console.log(typeof(undefined));
 console.log(typeof([]));
 console.log(typeof({}));
 console.log(typeof(NaN));
+
+number
+number   
+string   
+boolean  
+object   
+undefined
+object
+object
+number
